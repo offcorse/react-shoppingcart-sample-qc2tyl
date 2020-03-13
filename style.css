@@ -1,0 +1,35 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+*{
+  margin: 5px;
+
+}
+
+h1, p {
+  font-family: Lato;
+}
+
+.cart{
+  background-color: lightsteelblue;
+  padding: 1px;
+  padding-bottom: 5px;
+}
+
+.cursor{
+  cursor:pointer;
+  color:blue;
+  text-decoration:underline;
+}
+
+.alert{
+  margin-bottom: 3px;
+}
+
+.cart-header{
+  background-color: beige;
+}
+
+.cart-reset{
+  margin-top: 10px;
+  margin-right: 10px;
+}
